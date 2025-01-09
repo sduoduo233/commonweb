@@ -1,3 +1,5 @@
+# See https://github.com/sduoduo233/commonweb2
+
 # CommonWeb
 通过上下行分流来绕过某些防火墙
 
